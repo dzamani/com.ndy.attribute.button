@@ -1,0 +1,20 @@
+{
+    "name": "com.ndy.attribute.button",
+    "displayName": "Button Attribute",
+    "version": "1.0.0",
+    "unity": "2020.2",
+    "description": "This package is for adding a buttons to inspector easily with the help of an attribute.",
+    "keywords": [
+    ],
+    "category": "Utility",
+    "dependencies": {},
+    "files": [
+        "/Editor",
+        "/Editor.meta",
+        "/Runtime",
+        "/Runtime.meta",
+        "/Documentation",
+        "/Documentation.meta",
+        "package.json.meta"
+    ]
+}   
