@@ -8,15 +8,10 @@
     ],
     "category": "Utility",
     "dependencies": {},
-    "files": [
-        "/Editor",
-        "/Editor.meta",
-        "/Runtime",
-        "/Runtime.meta",
-        "/Documentation",
-        "/Documentation.meta",
-        "package.json.meta"
-    ],
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/dzamani/com.ndy.attribute.button.git"
+    },
     "author": {
         "name": "David Zamani-Kord",
         "email": "zamanikord.david@gmail.com"
